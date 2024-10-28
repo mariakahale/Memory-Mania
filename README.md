@@ -4,19 +4,19 @@ Memory Mania is a memory recall game where players must remember and reproduce a
 ![ColourScreen](https://github.com/user-attachments/assets/b1951e3d-fbaf-44d6-b673-4687b6de2e0b)
 
 
-	•	Game Logic Development:
+•	Game Logic Development:
  
   	•	Implemented game states (state0, state1, state2) and timers for gameplay and hex display.
   	•	Developed logic for checking correct sequences and score calculation.
-	•	VGA Output:
+•	VGA Output:
  
   	•	Designed functions for drawing the main screen, color sequences, and scores.
   	•	Integrated graphics by converting PNG to C and plotting images on VGA.
-	•	User Input:
+•	User Input:
  
   	•	Managed PS2 keyboard integration for color selection and undo functionality.
   	•	Developed polling code for efficient input handling.
-	•	Audio Integration:
+•	Audio Integration:
  
   	•	Converted and integrated audio files for background music and feedback.
 
